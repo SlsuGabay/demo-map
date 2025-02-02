@@ -80,15 +80,14 @@ body::-webkit-scrollbar {
 }
 
 .bottomnav a {
-    margin: 10px 5px;
-    float: left;
-    display: block;
+    margin: 5px 5px 5px 0.7rem;
+    display: inline-block;
     color: var(--light-color);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     transition: ease 0.4s;
-    font-size: 35px;
+    font-size: 1.5rem;
 }
 
 /* Change color on hover */
